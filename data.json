@@ -1,0 +1,152 @@
+{
+  "menu": [
+    {
+      "kategori": "coffee",
+      "nama": "Espresso",
+      "deskripsi": "Single or double shot of pure espresso.",
+      "harga": 18000,
+      "gambar": "espresso"
+    },
+    {
+      "kategori": "tea",
+      "nama": "Green Tea",
+      "deskripsi": "Traditional Japanese green tea.",
+      "harga": 20000,
+      "gambar": "greentea"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Cappuccino",
+      "deskripsi": "Equal parts espresso, steamed milk, and milk foam.",
+      "harga": 25000,
+      "gambar": "cappucino"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Latte",
+      "deskripsi": "Espresso with steamed milk and a small amount of foam.",
+      "harga": 28000,
+      "gambar": "latte"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Mocha",
+      "deskripsi": "Espresso with chocolate syrup, steamed milk, and whipped cream.",
+      "harga": 30000,
+      "gambar": "mocha"
+    },
+    {
+      "kategori": "tea",
+      "nama": "Chai Latte",
+      "deskripsi": "Spiced tea concentrate with steamed milk.",
+      "harga": 28000,
+      "gambar": "chailatte"
+    },
+    {
+      "kategori": "food",
+      "nama": "Quinoa Salad",
+      "deskripsi": "Quinoa with mixed greens, cherry tomatoes, cucumber, and feta cheese.",
+      "harga": 28000,
+      "gambar": "quinoa"
+    },
+    {
+      "kategori": "dessert",
+      "nama": "Cheesecake",
+      "deskripsi": "Soft cheesecake with fresh fruit toppings.",
+      "harga": 25000,
+      "gambar": "cheesecake"
+    },
+    {
+      "kategori": "smoothie",
+      "nama": "Mixed Berry Smoothie",
+      "deskripsi": "Blend of assorted berries with yogurt and ice.",
+      "harga": 32000,
+      "gambar": "berry"
+    },
+    {
+      "kategori": "smoothie",
+      "nama": "Mango Tango Smoothie",
+      "deskripsi": "Fresh mango blended with yogurt and ice.",
+      "harga": 34000,
+      "gambar": "mango"
+    },
+    {
+      "kategori": "food",
+      "nama": "Caprese Panini",
+      "deskripsi": "Fresh mozzarella, tomato, and basil pressed on ciabatta bread.",
+      "harga": 32000,
+      "gambar": "caprese"
+    },
+
+    {
+      "kategori": "beverage",
+      "nama": "Iced Lemonade",
+      "deskripsi": "Chilled lemonade with ice cubes.",
+      "harga": 22000,
+      "gambar": "lemon"
+    },
+    {
+      "kategori": "beverage",
+      "nama": "Sparkling Water",
+      "deskripsi": "Carbonated water with a hint of citrus.",
+      "harga": 18000,
+      "gambar": "sparkling"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Iced Caramel Macchiato",
+      "deskripsi": "Espresso, milk, and caramel syrup served cold.",
+      "harga": 28000,
+      "gambar": "caramel"
+    },
+    {
+      "kategori": "dessert",
+      "nama": "Chocolate Brownie",
+      "deskripsi": "Delicious chocolate brownie with nuts.",
+      "harga": 18000,
+      "gambar": "brownie"
+    },
+    {
+      "kategori": "dessert",
+      "nama": "Tiramisu Cake",
+      "deskripsi": "Tiramisu cake with layers of coffee and cream cheese.",
+      "harga": 22000,
+      "gambar": "tiramisu"
+    },
+    {
+      "kategori": "dessert",
+      "nama": "Banana Bread",
+      "deskripsi": "Soft banana bread with banana slices inside.",
+      "harga": 18000,
+      "gambar": "banana"
+    },
+    {
+      "kategori": "dessert",
+      "nama": "Panna Cotta",
+      "deskripsi": "Italian pudding with a layer of fresh fruit sauce.",
+      "harga": 20000,
+      "gambar": "panna"
+    },
+    {
+      "kategori": "dessert",
+      "nama": "Red Velvet Cake",
+      "deskripsi": "Red Velvet cake with cream cheese frosting.",
+      "harga": 23000,
+      "gambar": "redvelvet"
+    },
+    {
+      "kategori": "dessert",
+      "nama": "Fruit Parfait",
+      "deskripsi": "Layers of yogurt with fresh fruit toppings.",
+      "harga": 20000,
+      "gambar": "fruit"
+    },
+    {
+      "kategori": "food",
+      "nama": "Chicken Avocado Wrap",
+      "deskripsi": "Grilled chicken, avocado, lettuce, and tomato wrapped in a tortilla.",
+      "harga": 35000,
+      "gambar": "chicken"
+    }
+  ]
+}
